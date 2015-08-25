@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- codingː utf-8 -*-
 from __future__ import unicode_literals
 import codecs
 import icu
@@ -12,7 +12,7 @@ PHONEMES = makePhonemeSet("""
     p b t d c ɟ ʈ ɖ k g
     m n ɲ ŋ b̃ d̃ ɖ̃ ɟ̃ g̃ f s ʃ h
     r l j ʋ ɑ ɑː æ æː i iː
-    u uː e eː o oː ə əː ɑː̃   æː̃ əː̃
+    u uː e eː o oː ə əː ɑ̃ː   æ̃ː ə̃ː
     ɑi ɑu iu ei eu æi æu ɑi ɑu oi ou ui ɑːi
     eːi oːi oːu uːi æːi ɑːu æːu iːu w
     .
